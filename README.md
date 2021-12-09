@@ -2,6 +2,8 @@
 
 ![DEFCON MAINFRAME](/screenshot.png?raw=true "DC619")
 
+The file `DC619 - Mainframe Overflows Hands On.pdf` contains the labs and walks through how to perform them.
+
 ## Use docker
 
 You can use docker instead of building from scratch: https://hub.docker.com/r/mainframed767/mvsce_dc619
